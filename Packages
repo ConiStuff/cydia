@@ -12,3 +12,22 @@ Description: Pinterest, but it works!
 Author: Coni
 Name: PinterestX
 
+Package: name.alleon.auxo
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Alleon <andjerk@gmail.com>
+Installed-Size: 2077
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader
+Filename: ./debs/auxo.deb
+Size: 1599982
+MD5sum: 3875d5e7bb64b380bdbf6d997f699b53
+SHA1: 5ac0fc6979fbfbd7e81d0b9daedd2986d635a25e
+SHA256: f3038cb3000791d1a29c30b2f1b3a7368f98d86c1e4c97c4903718713355a4c5
+Section: Mod
+Description: Auxo - новый дизайн стандартного свитчера.
+Author: A3tweaks <A3tweaks@gmail.com>
+Depiction: http://www.newapps.ru/depiction/auxo.html
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo
+Sponsor: NewApps.ru <http://www.newapps.ru>
+

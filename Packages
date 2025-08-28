@@ -1,0 +1,15 @@
+Package: ca.conishadow.pinterestx
+Version: 13.28
+Architecture: iphoneos-arm
+Maintainer: Coni
+Depends: mobilesubstrate
+Filename: ./debs/ca.conishadow.pinterestx6_1.0_iphoneos-arm.deb
+Size: 29113788
+MD5sum: de2cf8299827e912b5ab07799eb3ff54
+SHA1: a0aa4e651b406afd81e7d6240288248337124f69
+SHA256: 21821528793e4a792f99294aa93ecc0ea6f7de1034e4f18c08edb30eac9b986d
+Section: Applications
+Description: PinterestX is a patched version of Pinterest 3.8.1
+Author: Coni
+Name: PinterestX
+

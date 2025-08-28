@@ -3,12 +3,12 @@ Version: 13.28
 Architecture: iphoneos-arm
 Maintainer: Coni
 Filename: ./debs/ca.conishadow.pinterestx_13.28_iphoneos-arm.deb
-Size: 534
-MD5sum: 7c568a2b9d0fcd3bc037431028ec0f96
-SHA1: 1c2e0010972f9e4e3d4372b38ac86cc8ff8e0ceb
-SHA256: d04b5f587ba10f15653e9156e0f2123c55d05b1de86d3c6ef4b3d1761663e27f
+Size: 29113680
+MD5sum: c0c43a0bca658e0819e70b7caa61288b
+SHA1: f9ec3f1ab346e5588019d4337025c6c59fe0e467
+SHA256: c989fc7b803f5bad2cf82ac99eff125a223a608c2df2cbf461e88d943d53a532
 Section: Applications
-Description: Pinterest but it works idfk
+Description: Pinterest, but it works!
 Author: Coni
 Name: PinterestX
 
